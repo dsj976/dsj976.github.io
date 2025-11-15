@@ -10,6 +10,6 @@ chronic kidney disease. My academic background is in mechanical & aeronautical e
 
 ### Research Data Scientist @ The Alan Turing Institute (Aug 2022 - now)
 
-### Data Lead @ DESNZ, UK Government (part time, Jan 2025 - now)
+### Data Lead @ DESNZ, UK Government (Jan 2025 - now, part-time)
 
 ### Teaching Assistant @ Loughborough University (2019 - 2022)
