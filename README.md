@@ -4,3 +4,12 @@ I am a research data scientist and software engineer at The Alan Turing Institut
 chronic kidney disease. My academic background is in mechanical & aeronautical engineering and I hold a PhD in computational combustion aerodynamics.
 
 ![Alt text](media/profile-picture.jpg)
+
+
+## Experience
+
+### Research Data Scientist @ The Alan Turing Institute (Aug 2022 - now)
+
+### Data Lead @ DESNZ, UK Government (part time, Jan 2025 - now)
+
+### Teaching Assistant @ Loughborough University (2019 - 2022)
